@@ -1,0 +1,25 @@
+{
+  "name": "Simsimi-Sqlite",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Simsimi", "Sim", "Api", "Sqlite", "Database"],
+  "author": "Choru TikTokers",
+    "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChoruTiktokers182/Simsimi-Sqlite/issues"
+  },
+  "homepage": "https://github.com/ChoruTiktokers182/Simsimi-Sqlite#README",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChoruTiktokers182/Simsimi-Sqlite.git"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.5.1",
+    "node-fetch": "^3.2.6"
+  }
+}
