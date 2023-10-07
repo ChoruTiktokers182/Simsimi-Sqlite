@@ -1,5 +1,5 @@
 // index.js
-const chat = require('./lib/chat');
-const teach = require('./lib/teach');
+const chat = require('./chat');
+const teach = require('./teach');
 
 module.exports = { chat, teach };
